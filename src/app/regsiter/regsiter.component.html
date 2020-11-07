@@ -1,0 +1,14 @@
+<div class="col-6 m-auto">
+    <div class="card p-3 shadow-lg">
+        <h3>Register</h3>
+        <form [formGroup]="registerForm" (ngSubmit)="register()">
+           <label>User Name</label>
+           <input type="text" class="form-control" formControlName="name" placeholder="Enter User Name"/>
+           <label>Email</label>
+           <input type="text" class="form-control" formControlName="email" placeholder="Enter Email"/>
+           <label>Password</label>
+           <input type="text" class="form-control" formControlName="password" placeholder="Enter Password"/>
+           <input class="mt-2 btn btn-primary" type="submit" value="Register"/>
+        </form>
+    </div>
+</div>

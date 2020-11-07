@@ -1,0 +1,42 @@
+{
+  "resto": [
+    {
+      "id": 1,
+      "name": "Kfc",
+      "email": "kfc@gmail.com",
+      "address": "Shahunagar Jaysingpur"
+    },
+    {
+      "name": "Clementine Bauch RMD",
+      "email": "kfc@gmail.com",
+      "address": "Shahunagar Jsp",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "name": "Patricia Lebsack",
+      "email": "kfc@gmail.com",
+      "address": "Shahunagar Jaysingpur"
+    },
+    {
+      "id": 5,
+      "name": "Chelsey Dietrich",
+      "email": "kfc@gmail.com",
+      "address": "Shahunagar Jaysingpur"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Rushi Desai",
+      "email": "rush@gmail.com",
+      "password": "1234"
+    },
+    {
+      "name": "dfdf",
+      "email": "rushikeshmahavirdesaitwo@gmail.com",
+      "password": "dfd",
+      "id": 2
+    }
+  ]
+}
